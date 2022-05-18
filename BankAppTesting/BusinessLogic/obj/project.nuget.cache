@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9POC5bw5UyqlvV6vPt+6WN4RiahZsqKNgROI3WbkPcyNhKW/LAiUIUQHOp0mYGbkJEYajsIN217Pm2wAkd8OoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\BankApp\\BusinessLogic\\BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.23\\microsoft.extensions.dependencyinjection.3.1.23.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.23\\microsoft.extensions.dependencyinjection.abstractions.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff0f9a81-55ae-4a47-9bf6-7ae72f2d3ab7": {
+      "ProjectGuid": "ff0f9a81-55ae-4a47-9bf6-7ae72f2d3ab7",
+      "DisplayName": "Utilities",
+      "ColorIndex": 0
+    },
+    "20885be8-f514-44ae-8867-85278ce9cc35": {
+      "ProjectGuid": "20885be8-f514-44ae-8867-85278ce9cc35",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 1
+    },
+    "3d35ef8f-0da5-4f48-82b4-646e3ea1c667": {
+      "ProjectGuid": "3d35ef8f-0da5-4f48-82b4-646e3ea1c667",
+      "DisplayName": "Storage",
+      "ColorIndex": 2
+    },
+    "4618a149-ceba-45f4-8bda-765d25892133": {
+      "ProjectGuid": "4618a149-ceba-45f4-8bda-765d25892133",
+      "DisplayName": "Models",
+      "ColorIndex": 3
+    },
+    "ae2b19e4-c7ba-420c-84af-bd740d5f6979": {
+      "ProjectGuid": "ae2b19e4-c7ba-420c-84af-bd740d5f6979",
+      "DisplayName": "BankApp",
+      "ColorIndex": 4
+    },
+    "29b9cfc4-6fa9-40d6-9708-bf3e3adf5dc3": {
+      "ProjectGuid": "29b9cfc4-6fa9-40d6-9708-bf3e3adf5dc3",
+      "DisplayName": "UserInterface",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c4d69b44-b7a5-4d36-ab70-aeb40f483102": {
+      "ProjectGuid": "c4d69b44-b7a5-4d36-ab70-aeb40f483102",
+      "DisplayName": "Repository",
+      "ColorIndex": 6
+    },
+    "1bfc8c56-0219-47dc-a07b-7dcda61baa1b": {
+      "ProjectGuid": "1bfc8c56-0219-47dc-a07b-7dcda61baa1b",
+      "DisplayName": "NationalBankForm",
+      "ColorIndex": 7
+    },
+    "81b20287-9433-4af3-8f9c-e577ab8802be": {
+      "ProjectGuid": "81b20287-9433-4af3-8f9c-e577ab8802be",
+      "DisplayName": "ValidationTest",
+      "ColorIndex": 8
+    },
+    "9a408f76-1fa3-46b8-a445-d96c26e6d8bf": {
+      "ProjectGuid": "9a408f76-1fa3-46b8-a445-d96c26e6d8bf",
+      "DisplayName": "BankAppTestProject",
+      "ColorIndex": 9
+    },
+    "541f5f7c-414d-448f-a0e1-b7b133600302": {
+      "ProjectGuid": "541f5f7c-414d-448f-a0e1-b7b133600302",
+      "DisplayName": "BankAppUnitTest",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
